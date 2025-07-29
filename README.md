@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Karthik BR 👋</h1>
-<p align="center"><em>Technologist • Data Analyst • Building rea world solutions</em></p>
+<p align="center"><em>Technologist • Data Analyst • Building real world solutions</em></p>
 
 <p align="center">
   <a href="https://github.com/Robbin808">
