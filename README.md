@@ -83,7 +83,7 @@ I believe in creating tools that make lives simpler, smarter, and more connected
 
 - 📫 Email: karthikbrinfopro@gmail.com 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/karthikbr008/)  
-- 📄 [Resume](https://drive.google.com/drive/home)
+- 📄 [Resume](https://drive.google.com/file/d/1FK-DCkE0qfiNfBEovqrzVBMmeY3Y0XXU/view?usp=drive_link)
 
 ---
 
