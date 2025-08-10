@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm KarthiK 👋</h1>
-<p align="center"><em>Technologist • Data Analyst • Building real world solutions</em></p>
+<p align="center"><em>Technologist • Data Analyst • Ai Engineering • Building real world solutions</em></p>
 
 <p align="center">
   <a href="https://github.com/Robbin808">
