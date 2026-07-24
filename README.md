@@ -2,7 +2,7 @@
 <p align="center"><em>Technologist • AI Engineering • Building real world solutions</em></p>
 
 <p align="center">
-  <a href="https://github.com/Robbin808">
+  <a href="https://github.com/karthikaxiom">
     <img src="https://komarev.com/ghpvc/?username=Robbin808&style=flat-square&color=blue" alt="GitHub Profile Views" />
   </a>
 </p>
