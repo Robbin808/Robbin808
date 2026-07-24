@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/karthikaxiom">
-    <img src="https://komarev.com/ghpvc/?username=Robbin808&style=flat-square&color=blue" alt="GitHub Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=karthikaxiom&style=flat-square&color=blue" alt="GitHub Profile Views" />
   </a>
 </p>
 
@@ -14,7 +14,7 @@
 I'm **Karthik**, a tech enthusiast passionate about solving meaningful problems with data, code, and creativity.
 
 🎯 Focused on building solutions that combine **AI, analytics**, and **human purpose**.  
-💡 Designer of [Quantum Well F7](https://github.com/Robbin808/quantum-well-f7) — a project focused on enhancing healthcare with AI.  
+💡 Designer of [Quantum Well F7](https://github.com/karthikaxiom/quantum-well-f7) — a project focused on enhancing healthcare with AI.  
 📊 Skilled in Python, SQL, R, and data visualization tools like Power BI and Tableau.
 
 I believe in creating tools that make lives simpler, smarter, and more connected.
@@ -34,9 +34,9 @@ I believe in creating tools that make lives simpler, smarter, and more connected
 
 | Project | Description |
 |--------|-------------|
-| 🚀 [Quantum Well F7](https://github.com/Robbin808/quantum-well-f7) | AI-powered healthcare assistant for elderly support across borders |
-| 🍕 [Pizza Sales SQL Dashboard](https://github.com/Robbin808/pizza-sales-sql) | Business insights using structured SQL queries |
-| 🧨 [Diwali Sales EDA](https://github.com/Robbin808/diwali-sales-eda) | Retail data exploration using Python and Matplotlib |
+| 🚀 [Quantum Well F7](https://github.com/karthikaxiom/quantum-well-f7) | AI-powered healthcare assistant for elderly support across borders |
+| 🍕 [Pizza Sales SQL Dashboard](https://github.com/karthikaxiom/pizza-sales-sql) | Business insights using structured SQL queries |
+| 🧨 [Diwali Sales EDA](https://github.com/karthikaxiom/diwali-sales-eda) | Retail data exploration using Python and Matplotlib |
 
 ---
 
