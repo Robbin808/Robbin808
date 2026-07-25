@@ -34,7 +34,7 @@ I believe in creating tools that make lives simpler, smarter, and more connected
 
 | Project | Description |
 |--------|-------------|
-| 🚀 [Quantum Well F7](https://www.linkedin.com/in/karthikbr008/overlay/Honor/1222251645/treasury/?profileId=ACoAAEDDmWoBpj69l4w_KInwJgLQF3Y8m703b4E) | AI-powered healthcare assistant for elderly support across borders |
+| 🚀 [Quantum Well F7](https://github.com/karthikaxiom/quantum-well-f7) | AI-powered healthcare assistant for elderly support across borders |
 | 🍕 [Pizza Sales SQL Dashboard](https://github.com/karthikaxiom/pizza-sales-analysis) | Business insights using structured SQL queries |
 | 🧨 [Diwali Sales EDA](https://github.com/karthikaxiom/Diwali_sales_trend) | Retail data exploration using Python and Matplotlib |
 | 📊 [News Summarizer](https://github.com/karthikaxiom/News_Summarizer) | Summarizing real-time news in Hindi |
