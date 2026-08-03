@@ -51,9 +51,6 @@ I believe in creating tools that make lives simpler, smarter, and more connected
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
-# 📊 GitHub Dashboard <p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=karthikaxiom&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikaxiom&layout=compact&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=karthikaxiom&theme=tokyo-night&hide_border=true"/> </p> <p align="center"> <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karthikaxiom&theme=tokyonight"/> </p>
-
----
 ## 📊 GitHub at a Glance
 
 <p align="center">
