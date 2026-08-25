@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Karthik B R — AI Research and Engineering</title>
+  <desc id="desc">A dark research-engineering banner with a subtle computational grid and connected signal nodes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f"/>
+      <stop offset="0.52" stop-color="#0b1730"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="0.5" stop-color="#818cf8"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#94a3b8" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="320" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="28" fill="url(#grid)"/>
+
+  <circle cx="1040" cy="52" r="150" fill="#2563eb" opacity="0.07"/>
+  <circle cx="1120" cy="250" r="110" fill="#06b6d4" opacity="0.06"/>
+
+  <g opacity="0.72" stroke="url(#signal)" stroke-width="2" fill="none">
+    <path d="M820 92 L910 62 L1008 108 L1094 76"/>
+    <path d="M846 172 L936 142 L1034 188 L1120 152"/>
+    <path d="M804 246 L900 214 L1000 252 L1110 222"/>
+    <path d="M910 62 L936 142 L900 214" opacity="0.55"/>
+    <path d="M1008 108 L1034 188 L1000 252" opacity="0.55"/>
+  </g>
+
+  <g fill="#38bdf8" filter="url(#glow)">
+    <circle cx="820" cy="92" r="5"/><circle cx="910" cy="62" r="5"/>
+    <circle cx="1008" cy="108" r="5"/><circle cx="1094" cy="76" r="5"/>
+    <circle cx="846" cy="172" r="5"/><circle cx="936" cy="142" r="5"/>
+    <circle cx="1034" cy="188" r="5"/><circle cx="1120" cy="152" r="5"/>
+    <circle cx="804" cy="246" r="5"/><circle cx="900" cy="214" r="5"/>
+    <circle cx="1000" cy="252" r="5"/><circle cx="1110" cy="222" r="5"/>
+  </g>
+
+  <g font-family="Segoe UI, Inter, Arial, sans-serif">
+    <text x="72" y="92" fill="#7dd3fc" font-size="18" font-weight="650" letter-spacing="4">RESEARCH × ENGINEERING</text>
+    <text x="68" y="160" fill="#f8fafc" font-size="54" font-weight="750" letter-spacing="0.5">Karthik B R</text>
+    <text x="72" y="206" fill="#cbd5e1" font-size="23" font-weight="450">AI Research · Machine Learning · Quantum-Classical Systems</text>
+    <text x="72" y="252" fill="#94a3b8" font-size="17">reproducibility  /  external validation  /  research software  /  evidence-first ML</text>
+  </g>
+
+  <rect x="70" y="277" width="660" height="2" rx="1" fill="url(#signal)" opacity="0.8"/>
+</svg>
