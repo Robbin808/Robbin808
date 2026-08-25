@@ -84,6 +84,28 @@ I work at the intersection of **AI research and software engineering**, with a s
 
 ---
 
+## Research Lineage
+
+```text
+QuCNet paper reproduction
+        ↓
+method reconstruction + DDTI audit
+        ↓
+patient-level leakage analysis + fair quantum/classical comparison
+        ↓
+negative reproducibility finding preserved as evidence
+        ↓
+AxiomCervix-Q
+        ↓
+source-aware evaluation + external validation + localization + research software
+```
+
+Before developing AxiomCervix-Q, I completed an **independent reproduction and methodological audit of QuCNet for thyroid nodule classification** using the public DDTI dataset. The work reconstructed the published pipeline from publicly recoverable information, audited annotations and patient-level leakage risk, compared hybrid quantum-classical and classical approaches, and preserved the finding that the reported performance could not be independently reproduced under the available evidence.
+
+That reproduction work directly shaped the research standards I now use: **verify the dataset, control leakage, compare fairly, preserve negative results, and keep claims inside the evidence boundary**.
+
+---
+
 ## Current Research — AxiomCervix-Q
 
 **AxiomCervix-Q** is a controlled research project investigating **morphology-aware hybrid quantum-classical learning for candidate-level cervical cytology evidence**.
@@ -120,14 +142,24 @@ Controlled research into morphology-aware hybrid quantum-classical cervical cyto
 </td>
 <td width="50%" valign="top">
 
+### ⚛️ QuCNet Reproduction & Methodological Audit
+**Reproducibility · Medical Imaging · Quantum-Classical ML**
+
+Independent reconstruction of a published thyroid-ultrasound QuCNet study using DDTI, including dataset verification, annotation and leakage auditing, quantum-feature reconstruction, matched classical comparison, case-separated evaluation, and preservation of non-reproduced results.
+
+`completed private reproduction repository`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 📰 [News Summarizer](https://github.com/karthikaxiom/News_Summarizer)
 **NLP · Sentiment · API · Hindi TTS**
 
 A web-based workflow for extracting company news, summarizing articles, comparing sentiment, exposing API endpoints, translating output to Hindi, and generating speech.
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🧩 [Product Categorization Model](https://github.com/karthikaxiom/Product-Categorization-Model)
@@ -136,6 +168,8 @@ A web-based workflow for extracting company news, summarizing articles, comparin
 An end-to-end categorization project covering preprocessing, model training, evaluation, and multiple classical classification approaches.
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🍕 [Pizza Sales Analysis](https://github.com/karthikaxiom/pizza-sales-analysis)
@@ -144,8 +178,6 @@ An end-to-end categorization project covering preprocessing, model training, eva
 A sales-analysis project centered on translating business questions into structured dataset analysis and SQL-driven insights.
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 💬 [Restaurant Review Sentiment](https://github.com/karthikaxiom/sentiment-analysis-of-restaurent-review)
@@ -154,12 +186,22 @@ A sales-analysis project centered on translating business questions into structu
 Restaurant-review sentiment classification using text preprocessing, vectorization, and comparative classical models including Naive Bayes and logistic regression.
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🏙️ [Airbnb Data Analysis](https://github.com/karthikaxiom/Airbnb_data_analysis)
 **Analytics · Tableau · NYC Market Exploration**
 
 Exploration of Airbnb activity, pricing, hosts, neighborhoods, room types, reviews, and temporal patterns, supported by a Tableau dashboard.
+
+</td>
+<td width="50%" valign="top">
+
+### 🚕 [Uber Data Analysis](https://github.com/karthikaxiom/Uber_Data_Analysis)
+**Exploratory Analytics · Multi-source Data · Python**
+
+Notebook-based analysis combining cab-ride and weather data to explore patterns through cleaning, preparation, visualization, and structured exploratory analysis.
 
 </td>
 </tr>
@@ -171,7 +213,6 @@ Exploration of Airbnb activity, pricing, hosts, neighborhoods, room types, revie
 
 A broader set of compact projects where I explored datasets, modeling patterns, visualization, and practical Python workflows:
 
-[**Uber Data Analysis**](https://github.com/karthikaxiom/Uber_Data_Analysis) ·
 [**Netflix Data Analysis**](https://github.com/karthikaxiom/Netflix_data_analysis) ·
 [**Diwali Sales Trend**](https://github.com/karthikaxiom/Diwali_sales_trend) ·
 [**Coffee Sales Report**](https://github.com/karthikaxiom/Coffee_sales_report) ·
