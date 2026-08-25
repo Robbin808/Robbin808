@@ -84,73 +84,17 @@ I work at the intersection of **AI research and software engineering**, with a s
 
 ---
 
-## Research Lineage
+## Current Research Direction
 
-```text
-QuCNet paper reproduction
-        ↓
-method reconstruction + DDTI audit
-        ↓
-patient-level leakage analysis + fair quantum/classical comparison
-        ↓
-negative reproducibility finding preserved as evidence
-        ↓
-AxiomCervix-Q
-        ↓
-source-aware evaluation + external validation + localization + research software
-```
+Currently exploring research problems across **Artificial Intelligence, Machine Learning, Healthcare AI, and emerging quantum-computing approaches**, with an emphasis on reproducibility, careful evaluation, and research-driven system development.
 
-Before developing AxiomCervix-Q, I completed an **independent reproduction and methodological audit of QuCNet for thyroid nodule classification** using the public DDTI dataset. The work reconstructed the published pipeline from publicly recoverable information, audited annotations and patient-level leakage risk, compared hybrid quantum-classical and classical approaches, and preserved the finding that the reported performance could not be independently reproduced under the available evidence.
-
-That reproduction work directly shaped the research standards I now use: **verify the dataset, control leakage, compare fairly, preserve negative results, and keep claims inside the evidence boundary**.
-
----
-
-## Current Research — AxiomCervix-Q
-
-**AxiomCervix-Q** is a controlled research project investigating **morphology-aware hybrid quantum-classical learning for candidate-level cervical cytology evidence**.
-
-The work combines research methodology with software engineering: source-aware evaluation, reproducible experimentation, external validation, automatic localization analysis, classical-versus-quantum comparison, and preservation of frozen evidence. The project treats a negative quantum result as a valid scientific result rather than something to hide or optimize away.
-
-<table>
-<tr>
-<td><b>Research mode</b></td><td>Controlled / private review</td>
-</tr>
-<tr>
-<td><b>Primary themes</b></td><td>Biomedical AI · Trustworthy ML · Quantum-Classical Systems</td>
-</tr>
-<tr>
-<td><b>Engineering themes</b></td><td>Reproducibility · Validation · Research software · Evidence preservation</td>
-</tr>
-</table>
+Active research projects remain private while work is under development.
 
 ---
 
 ## Selected Systems
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧬 AxiomCervix-Q
-**Biomedical AI · Quantum ML · Research Engineering**
-
-Controlled research into morphology-aware hybrid quantum-classical cervical cytology evidence, with reproducible evaluation, external validation, localization analysis, and careful scientific claim boundaries.
-
-`private research repository`
-
-</td>
-<td width="50%" valign="top">
-
-### ⚛️ QuCNet Reproduction & Methodological Audit
-**Reproducibility · Medical Imaging · Quantum-Classical ML**
-
-Independent reconstruction of a published thyroid-ultrasound QuCNet study using DDTI, including dataset verification, annotation and leakage auditing, quantum-feature reconstruction, matched classical comparison, case-separated evaluation, and preservation of non-reproduced results.
-
-`completed private reproduction repository`
-
-</td>
-</tr>
 <tr>
 <td width="50%" valign="top">
 
