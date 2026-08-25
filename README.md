@@ -13,7 +13,7 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/karthikbr008/">LinkedIn</a> ·
+<a href="https://www.linkedin.com/in/karthikbr-ai/">LinkedIn</a> ·
 <a href="mailto:karthikbrinfopro@gmail.com">Email</a> ·
 <a href="https://github.com/karthikaxiom?tab=repositories">Repositories</a>
 
@@ -256,7 +256,7 @@ focus = {
 
 **Open to research conversations, technical collaboration, and ambitious AI engineering problems.**
 
-<a href="https://www.linkedin.com/in/karthikbr008/">LinkedIn</a> ·
+<a href="https://www.linkedin.com/in/karthikbr-ai/">LinkedIn</a> ·
 <a href="mailto:karthikbrinfopro@gmail.com">Email</a> ·
 <a href="https://github.com/karthikaxiom?tab=repositories">Explore the work</a>
 
