@@ -56,7 +56,7 @@ I work at the intersection of **AI research and software engineering**, with a s
 
 ---
 
-## Research OS
+## Research OS.
 
 ```text
 ┌─ question
