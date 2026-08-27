@@ -22,7 +22,7 @@
 
 ---
 
-## Research Signal
+## Research Signal.
 
 <table>
 <tr>
